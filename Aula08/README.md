@@ -58,8 +58,8 @@ EX:
   color: blue;
 }
 
-
-<!-- <ul class="lista">
+<code>
+<ul class="lista">
   <li class="lista__item lista__item--destacado">
     <h2 class="lista__titulo">Publicações do autor Fulano</h2>
     <p class="lista__autor">Nome do autor</p>    
@@ -71,7 +71,7 @@ EX:
 <div class="container">
    <button class="container__botao1">botao 1</button>
    <button class="container__botao2 container__botao2--hover">botao 2</button>
-</div> -->
-
+</div> 
+</code>
 
 📌 Material extra: https://medium.com/trainingcenter/bem-em-5min-f5c80fd23439
