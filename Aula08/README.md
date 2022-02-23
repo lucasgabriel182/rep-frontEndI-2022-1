@@ -10,9 +10,9 @@
 
  - background-size: 130px (auto, cover, contain)
 
-exemplo cover: https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background-size3
+exemplo cover: <https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background-size3>
 
-exemplo contain: https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background-size4
+exemplo contain: <https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background-size4>
 ---------------
 
 ## FONTES
