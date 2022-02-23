@@ -54,11 +54,11 @@ EX:
   font-size:30px;
 }
 
-.container__tiutlo--destaque{
+.container__titulo--destaque{
   color: blue;
 }
 
-<pre><code>
+```
 <ul class="lista">
   <li class="lista__item lista__item--destacado">
     <h2 class="lista__titulo">Publicações do autor Fulano</h2>
@@ -72,6 +72,6 @@ EX:
    <button class="container__botao1">botao 1</button>
    <button class="container__botao2 container__botao2--hover">botao 2</button>
 </div> 
-</code></pre>
+```
 
 📌 Material extra: https://medium.com/trainingcenter/bem-em-5min-f5c80fd23439
