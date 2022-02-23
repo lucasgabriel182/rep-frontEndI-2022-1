@@ -1,6 +1,6 @@
 :books: Conteúdos vistos em aula:
 
-# BACKGROUNDS
+## BACKGROUNDS
 
  - background-color: 
  - background-image: url('../img/bici.jpg')
@@ -10,11 +10,12 @@
 
  - background-size: 130px (auto, cover, contain)
 
-** exemplo cover: https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background-size3
-** exemplo contain: https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background-size4
+exemplo cover: https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background-size3
+
+exemplo contain: https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background-size4
 ---------------
 
-# FONTES
+## FONTES
 
  @import url('link da fonte')
 
@@ -26,7 +27,7 @@ font-family: "Roboto";
 
 ---
 
-## Ícones
+### Ícones
 
 Google Fonts - ícones
 
@@ -58,7 +59,7 @@ EX:
 }
 
 
-<ul class="lista">
+<!-- <ul class="lista">
   <li class="lista__item lista__item--destacado">
     <h2 class="lista__titulo">Publicações do autor Fulano</h2>
     <p class="lista__autor">Nome do autor</p>    
@@ -70,7 +71,7 @@ EX:
 <div class="container">
    <button class="container__botao1">botao 1</button>
    <button class="container__botao2 container__botao2--hover">botao 2</button>
-</div>
+</div> -->
 
 
 📌 Material extra: https://medium.com/trainingcenter/bem-em-5min-f5c80fd23439
