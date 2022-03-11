@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+.conteiner {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-color: #222222;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.lista li {
+  list-style: none;
+  display: inline;
+  color: #f3f3f3;
+  padding: 10px;
+}
+
+.conteinerPai {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  margin: 50px;
+}
+
+.delivery {
+  background: url(../img/delivery.jpg) no-repeat;
+}
+
+.delivery p {
+  width: 490px;
+  height: 350px;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  
+}
+
+.delivery span {
+  color: red;
+}
+
+.cardapio h3 {
+  text-align: center;
+  color: red;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.itens {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 50px;
+  gap: 100px;
+  font-weight: bold;
+}
+
+.itens h4 {
+  font-size: 20px;
+  margin: 15px;
+}
+
+.itens li {
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+
+footer {
+  display: flex;
+  background: #222222;
+  color: #f3f3f3;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+footer li {
+  list-style: none;
+}
